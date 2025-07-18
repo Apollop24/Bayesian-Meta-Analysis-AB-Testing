@@ -308,8 +308,7 @@ sigma_between ~ dt(0, scale, 1) T(0,)  # Half-t prior
 
 ## 📝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
+We welcome contributions!
 ### Development Setup
 
 ```bash
@@ -340,9 +339,8 @@ Looking for custom Bayesian analysis solutions? I specialize in:
 
 ### 📞 Contact
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@domain.com]
-- **Portfolio**: [Your Portfolio Website]
+- **Upwork**: [https://www.upwork.com/freelancers/~01055a2b89788071d4?mp_source=share]
+- **Portfolio**: [https://apollop24.github.io/]
 
 ## 🎯 Why Choose This Framework?
 
@@ -368,12 +366,7 @@ Looking for custom Bayesian analysis solutions? I specialize in:
 - **v1.1.0**: Implemented parallel processing for faster computation
 - **v1.0.0**: Initial release with full Bayesian meta-analysis framework
 
-## 🏆 Recognition
-
-- **⭐ 5.0/5.0 Client Rating** on Upwork
-- **Featured Project** in Bayesian Statistics Community
-- **Production-Ready** validation from multiple client deployments
 
 ---
 
-*Last Updated: Jully 2025*
+*Last Updated: July 2025*
